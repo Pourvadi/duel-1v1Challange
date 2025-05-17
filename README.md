@@ -27,7 +27,7 @@ A simple and efficient API for managing and sending duels between users, built w
 
 ```bash
 git clone https://github.com/Pourvadi/duel-1v1Challange.git
-cd duel-system
+cd duel-1v1Challange
 composer install
 
 php artisan migrate
