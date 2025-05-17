@@ -26,7 +26,7 @@ A simple and efficient API for managing and sending duels between users, built w
 ## Installation & Setup
 
 ```bash
-git clone https://github.com/Pourvadi/duel-system.git
+git clone https://github.com/Pourvadi/duel1v1challen
 cd duel-system
 composer install
 
